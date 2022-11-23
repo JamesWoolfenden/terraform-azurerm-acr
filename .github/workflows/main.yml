@@ -8,7 +8,7 @@ on:
     branches:
       - main
 env:
-  terraform: 0.14.5
+  terraform: 1.13
   tf_target_dir: example/examplea
   branch: main
 jobs:
