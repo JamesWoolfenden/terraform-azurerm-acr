@@ -2,7 +2,7 @@
 
 With Secure Defaults from Checkov
 
-[![Build Status](https://github.com/JamesWoolfenden/terraform-azurerm-acr/workflows/Verify%20and%20Bump/badge.svg?branch=master)](https://github.com/JamesWoolfenden/terraform-azurerm-acr)
+[![Build Status](https://github.com/JamesWoolfenden/terraform-azurerm-acr/workflows/Verify/badge.svg?branch=master)](https://github.com/JamesWoolfenden/terraform-azurerm-acr)
 [![Latest Release](https://img.shields.io/github/release/JamesWoolfenden/terraform-azurerm-acr.svg)](https://github.com/JamesWoolfenden/terraform-azurerm-acr/releases/latest)
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/JamesWoolfenden/terraform-azurerm-acr.svg?label=latest)](https://github.com/JamesWoolfenden/terraform-azurerm-acr/releases/latest)
 ![Terraform Version](https://img.shields.io/badge/tf-%3E%3D0.14.0-blue.svg)
@@ -134,7 +134,7 @@ Please use the [issue tracker](https://github.com/JamesWoolfenden/terraform-azur
 
 ## Copyrights
 
-Copyright © 2022 James Woolfenden
+Copyright © 2022-23 James Woolfenden
 
 ## License
 
